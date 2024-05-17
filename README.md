@@ -8,7 +8,7 @@ View requirements.txt and environment.yml
 Please make sure dataset format is csv, and column name are: 'smiles','sequences','label'. We have provided dataset in the dataset directory, which can also be obtained from the following link.<br>
 1. DrugBank is available at [https://github.com/MrZQAQ/MCANet](https://github.com/MrZQAQ/MCANet) <br>
 2. Human and C.elegans are available at [https://github.com/Layne-Huang/CoaDTI](https://github.com/Layne-Huang/CoaDTI)
-
+3. BioSNAP is available at [https://snap.stanford.edu/biodata/datasets/10002/10002-ChG-Miner.html](https://snap.stanford.edu/biodata/datasets/10002/10002-ChG-Miner.html)
 
 # Quick start
 You can use the following code to run our demo.<br>
